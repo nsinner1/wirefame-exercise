@@ -3,14 +3,21 @@ nav {
 }
 
 #logo {
+    background-color: black;
     margin-left: 30px;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-right: -40px;
+    display: inline-block;
+    text-align: center; 
+    width: 200px;
 }
 
 li {
-    display: inline;
-    margin: 20px;
+    display: inline-block;
     padding: 20px;
     color: lightgray;
+    width: 180px;
+    text-align: center;
+    padding: 20px 0;
 }
