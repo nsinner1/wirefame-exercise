@@ -1,13 +1,16 @@
 nav {
-    margin: 5px;
-    background-color: darkgrey;
+    background-color: rgb(67, 65, 65);
 }
 
 #logo {
-    background-color:;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 li {
     display: inline;
-    
+    margin: 20px;
+    padding: 20px;
+    color: lightgray;
 }
